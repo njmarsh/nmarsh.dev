@@ -18,7 +18,7 @@
 }
 
 .App-header-img-wrap {
-  border: 1px solid #fff;
+  border: 5px solid #fff;
 }
 
 .App-header-img-wrap > img, .App-header-img-wrap {
@@ -27,6 +27,6 @@
   border-radius: 50%;
 }
 
-App-header-title {
+.App-header-title {
   font-size: 0.8em;
 }
