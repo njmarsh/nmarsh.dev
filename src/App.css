@@ -17,6 +17,12 @@
   color: white;
 }
 
-.App-link {
-  color: #09d3ac;
+.App-header-img-wrap {
+  width: 176px;
+  height: 176px;
+  border-radius: 50%;
+}
+
+App-header-title {
+  font-size: 0.8em;
 }
